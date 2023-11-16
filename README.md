@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ali Burak</h1>
-<h3 align="center">Enterprise Architect at ING Tech</h3>
+<h1 align="center">Hi 🖖, I'm Ali Burak</h1>
+
+- 💻 I'm Enterprise Architect at ING Tech
 
 - 📫 Reach me **a.burakbozan@gmail.com**
 
+<br />
+<!---
 - 📄 Know about my experiences [https://www.linkedin.com/in/ali-burak-bozan/](https://www.linkedin.com/in/ali-burak-bozan/)
 
-<!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-burak-bozan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benanilcan" height="30" width="40" /></a>

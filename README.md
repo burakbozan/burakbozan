@@ -1,7 +1,6 @@
 <h1 align="center">Hi 🖖, I'm Ali Burak</h1>
 
-- 💻 I'm Enterprise Architect at ING Tech
-
+- 💻 I'm Enterprise Architect at ${\color{orange}ING Tech}$
 - 📫 Reach me **a.burakbozan@gmail.com**
 
 <br />

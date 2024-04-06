@@ -15,3 +15,8 @@
 
 [![Twitter follow @aliburakbozan](https://img.shields.io/twitter/follow/aliburakbozan?style=social)](https://twitter.com/aliburakbozan) &nbsp;
 [![Linkedin follow @sivalabs](https://img.shields.io/badge/-aliburakbozan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-burak-bozan/)](https://www.linkedin.com/in/ali-burak-bozan/) &nbsp;
+
+### Languages and Tools
+
+<a href="https://github.com/burakbozan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakbozan&theme=dark&count_private=true" alt="My most used languages" /></a>

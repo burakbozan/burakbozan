@@ -12,8 +12,6 @@
 <a href="https://www.linkedin.com/in/ali-burak-bozan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benanilcan" height="30" width="40" /></a>
 </p>
 
-Exponential backoff
-Exponential backoff is a mechanism that introduces delays between retry calls in an attempt to get a successful response. These delays can increase exponentially as the number of failed retry calls grows.
 -->
 
 [![Twitter follow @aliburakbozan](https://img.shields.io/twitter/follow/aliburakbozan?style=social)](https://twitter.com/aliburakbozan) &nbsp;

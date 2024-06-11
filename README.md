@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-burak-bozan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benanilcan" height="30" width="40" /></a>
 </p>
-
 -->
 
 [![Twitter follow @aliburakbozan](https://img.shields.io/twitter/follow/aliburakbozan?style=social)](https://twitter.com/aliburakbozan) &nbsp;

@@ -1,6 +1,7 @@
 <h1 align="center">Hi 🖖, I'm Ali Burak</h1>
 
-- 💻 I'm Enterprise Architect at ${\color{orange}ING \space \color{orange}Tech \space \color{orange}Turkey}$
+- 💻 Enterprise Architect, Domain Architect, Solution Architect, Team Leader, Developer
+- 🙌 Operate at both strategic and hands-on levels
 - 📫 Reach me **a.burakbozan@gmail.com** 
 
 <br />

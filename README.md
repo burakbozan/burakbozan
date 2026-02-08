@@ -5,6 +5,11 @@
 - 📫 Reach me **a.burakbozan@gmail.com** 
 
 <br />
+
+[![Twitter follow @aliburakbozan](https://img.shields.io/twitter/follow/aliburakbozan?style=social)](https://twitter.com/aliburakbozan) &nbsp;
+[![Linkedin follow @sivalabs](https://img.shields.io/badge/-aliburakbozan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-burak-bozan/)](https://www.linkedin.com/in/ali-burak-bozan/) &nbsp;
+
+
 <!---
 - 📄 Know about my experiences [https://www.linkedin.com/in/ali-burak-bozan/](https://www.linkedin.com/in/ali-burak-bozan/)
 
@@ -12,12 +17,15 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-burak-bozan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benanilcan" height="30" width="40" /></a>
 </p>
--->
-
-[![Twitter follow @aliburakbozan](https://img.shields.io/twitter/follow/aliburakbozan?style=social)](https://twitter.com/aliburakbozan) &nbsp;
-[![Linkedin follow @sivalabs](https://img.shields.io/badge/-aliburakbozan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-burak-bozan/)](https://www.linkedin.com/in/ali-burak-bozan/) &nbsp;
 
 ### Languages and Tools
 
 <a href="https://github.com/burakbozan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakbozan&theme=dark&count_private=true" alt="My most used languages" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakbozan&theme=dark&count_private=true" alt="My most used languages"/>
+</a>
+
+-->
+
+
+
+

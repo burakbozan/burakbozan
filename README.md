@@ -2,7 +2,8 @@
 
 - 💻 Enterprise Architect, Domain Architect, Solution Architect, Team Leader, Developer
 - 🙌 Operate at both strategic and hands-on levels
-- 📫 Reach me **a.burakbozan@gmail.com** 
+- 📫 Reach me **a.burakbozan@gmail.com**
+- https://linktr.ee/aliburakbozan
 
 <br />
 

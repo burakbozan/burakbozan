@@ -1,35 +1,47 @@
 <h1 align="center">Hi 🖖, I'm Ali Burak</h1>
 
-- 💻 Enterprise Architect, Domain Architect, Solution Architect, Team Leader, Developer
-- 🙌 Operate at both strategic and hands-on levels
-- 📫 Reach me **a.burakbozan@gmail.com**
-- 🌳 [https://linktr.ee/aliburakbozan](https://linktr.ee/aliburakbozan)
+<p align="center">
+💻 Enterprise Architect • Domain Architect • Solution Architect • Team Leader • Developer  
+</p>
 
-<br />
+---
 
+### 👨‍💻 About Me
+- Operate at both **strategic** and **hands-on** levels  
+- Passionate about **enterprise architecture**, **solution design**, and **team leadership**  
+- 📫 Reach me at **a.burakbozan@gmail.com**  
+- 🌳 Explore more via **[Linktree](https://linktr.ee/aliburakbozan)**  
+
+---
+
+### 🌐 Connect with Me
 <p align="left">
   <!-- Twitter / X -->
-  <a href="https://x.com" target="_blank">
-    <img src="https://shields.io" alt="Twitter/X" />
+  <a href="https://x.com/aliburakbozan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>&nbsp;&nbsp;
-  
+
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ali-burak-bozan/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/ali-burak-bozan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
 
   <!-- Linktree -->
   <a href="https://linktr.ee/aliburakbozan" target="_blank">
-    <img src="https://shields.io" alt="Linktree" />
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
 
-<!---
-- 📄 Know about my experiences [https://www.linkedin.com/in/ali-burak-bozan/](https://www.linkedin.com/in/ali-burak-bozan/)
+---
 
-### Languages and Tools
+### 🚀 Expertise
+- **Enterprise Architecture**: Designing scalable, resilient systems  
+- **Domain & Solution Architecture**: Bridging business needs with technology solutions  
+- **Leadership**: Guiding teams with clarity and vision  
+- **Development**: Hands-on coding and implementation across modern stacks  
 
-<a href="https://github.com/burakbozan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakbozan&theme=dark&count_private=true" alt="My most used languages"/>
-</a>
--->
+---
+
+<p align="center">
+✨ Always learning, building, and sharing knowledge ✨
+</p>

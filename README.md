@@ -7,9 +7,28 @@
 
 <br />
 
+<p align="left">
+  <!-- Twitter / X -->
+  <a href="https://x.com" target="_blank">
+    <img src="https://shields.io" alt="Twitter/X" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+
+  <!-- Linktree -->
+  <a href="https://linktr.ee" target="_blank">
+    <img src="https://shields.io" alt="Linktree" />
+  </a>
+</p>
+
+
+
 [![Twitter follow @aliburakbozan](https://img.shields.io/twitter/follow/aliburakbozan?style=social)](https://twitter.com/aliburakbozan) &nbsp;
 [![Linkedin follow @sivalabs](https://img.shields.io/badge/-aliburakbozan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-burak-bozan/)](https://www.linkedin.com/in/ali-burak-bozan/) &nbsp;
-
+[![Website@aliburakbozan](https://img.shields.io/twitter/follow/aliburakbozan?style=social)](https://twitter.com/aliburakbozan) &nbsp;
 
 <!---
 - 📄 Know about my experiences [https://www.linkedin.com/in/ali-burak-bozan/](https://www.linkedin.com/in/ali-burak-bozan/)
